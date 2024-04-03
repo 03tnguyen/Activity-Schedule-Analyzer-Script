@@ -19,11 +19,11 @@ The file 'main.py' will analyze the data from 'input.txt' and result will displa
   <strong>Implementing files:</strong>
   <li>Input.txt </li>
   <li>Output.txt </li>
-  <li>main.py</li><br>
+  <li>ScheduleAnalyzer.py</li><br>
 
   <strong>Running the files:</strong>
   ```
-  python main.py
+  python ScheduleAnalyzer.py
   ```
 </p>
 
