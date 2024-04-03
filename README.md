@@ -1,4 +1,5 @@
 # Activity Schedule Analyzer Script
+  Course: CPSC335 - Algorithm Engineering
   Tram Nguyen
   <li>24tnguyen.2003@gmail.com</li>
 </p>
