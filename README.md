@@ -15,7 +15,7 @@
 
 ## Instructions
 <p>
-The file 'main.py' will analyze the data from 'input.txt' and result will display in 'output.txt'.
+The file 'main.py' will analyze the data from 'input.txt' and result will display in 'output.txt'.<br>
   <strong>Implementing files:</strong>
   <li>Input.txt </li>
   <li>Output.txt </li>
