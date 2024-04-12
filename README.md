@@ -10,7 +10,7 @@
   <br><br>
   The problem entails delegating scheduling intervals, where various members have different availability windows. By employing a carefully designed algorithm, we strive to optimize the process of identifying suitable meeting times, ensuring that all members can participate for the required duration.
   <br><br>
-  Our solution addresses the challenge of schedule matching with an optimized algorithm to create the most correct and efficient way to produce an availability schedule for all members. Through testing and result analysis, we aim to provide a reliable and practical tool for managing group schedules effectively.
+  The solution addresses the challenge of schedule matching with an optimized algorithm to create the most correct and efficient way to produce an availability schedule for all members. Through testing and result analysis, we aim to provide a reliable and practical tool for managing group schedules effectively.
 </p>
 
 ## Instructions
